@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chrod -R +111 */
+sudo chmod -R +111 */
